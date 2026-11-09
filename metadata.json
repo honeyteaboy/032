@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Anime JRPG Studio",
+  "description": "An all-in-one Anime Fantasy JRPG studio with multi-layer map editor, lore, quest and dialogue systems, battle engine, and standalone HTML game exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
